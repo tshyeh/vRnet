@@ -1,1 +1,6 @@
-dfjdkfjdkjl
+$ git add Testfile
+$ git commit -m "comment"
+$ git push
+
+$ git fetch bastian
+$ git fetch phystory
